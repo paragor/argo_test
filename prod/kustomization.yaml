@@ -1,0 +1,4 @@
+namepsace: default
+
+resources:
+  - ../base
